@@ -15,7 +15,7 @@ public class Main {
 	    System.out.println("This show sales data");
 		
 	    
-	    
+	    System.out.println("Test 1");
 	}
 	
 
